@@ -1,0 +1,4 @@
+這個課程是我在Coursera上的用 Python 做商管程式設計（二）(Programming for Business Computing in Python (2))
+的免費課程上看到的
+
+https://www.coursera.org/learn/pbc2
